@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @RequiredArgsConstructor
 @Controller
-public class IndexController2 {
+public class IndexController {
 
     private final PostsService postsService;
 
